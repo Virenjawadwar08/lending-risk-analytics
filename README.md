@@ -151,16 +151,7 @@ commands above; numbers below are from the current cleaned dataset)*
 | ![Default rate by purpose](images/default_rate_by_purpose.png) | ![Default rate by FICO band](images/default_rate_by_fico_band.png) |
 | ![Interest rate distribution](images/interest_rate_distribution.png) | ![DTI vs default rate](images/dti_vs_default_rate.png) |
 
-## Dashboard preview
 
-Open `dashboard/index.html` in a browser for the live version. Static
-screenshots for quick reference:
-
-| Summary | Overview |
-|---|---|
-| ![Summary dashboard](images/dashboard_summary.png) | ![Overview dashboard](images/dashboard_overview.png) |
-
-![Details dashboard](images/dashboard_details.png)
 
 ## Notes on methodology
 
