@@ -4,7 +4,7 @@
 **Role:** Data Analyst (Portfolio Project)
 **Contact:** virenjawadwar001@gmail.com · [LinkedIn](https://www.linkedin.com/in/viren-jawadwar-05a602264/) · [GitHub](https://github.com/Virenjawadwar08)
 
-**Live dashboard:** `dashboard/index.html` — open it directly in a browser, no install needed. (Optional Tableau Public version: see `dashboard/TABLEAU_BUILD_GUIDE.md`.)
+**Live dashboard:** [View live dashboard →](https://virenjawadwar08.github.io/lending-risk-analytics/dashboard/index.html)
 
 ---
 
